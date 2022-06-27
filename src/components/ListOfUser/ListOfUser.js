@@ -11,7 +11,6 @@ const fetchUser = () => {
 }
 
 const ListOfUser = (props) => {
-
     const [originalListOfUser, setOriginalList] = useState([]);
     const [users, setUser] = useState([]);
     const [searchInput, setSearchInput] = useState('');

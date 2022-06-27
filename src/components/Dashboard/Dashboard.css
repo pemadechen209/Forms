@@ -1,0 +1,14 @@
+.main-area{
+    min-height: 70vh;
+    box-shadow: 1px 1px 5px black;
+    
+}
+
+.box-area{
+    box-shadow: 1px 1px 3px black;
+    border-radius: 5px;
+}
+
+.title{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  
+}

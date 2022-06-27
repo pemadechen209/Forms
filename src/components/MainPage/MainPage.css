@@ -1,0 +1,16 @@
+.main-container {
+    /* border: 3px solid green; */
+    height: 100%;
+    padding:3rem;
+    display: block;
+    margin: 30px auto;
+    /* width: 50%; */
+    border-radius: 30px;
+    box-shadow: 0.25px 0.2px 3px #000;
+}
+
+.main-title{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0 0 0 ;
+}

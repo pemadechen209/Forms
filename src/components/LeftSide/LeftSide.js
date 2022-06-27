@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const LeftSide = (props) => {
     return <div>
         <img src={props.Image} alt="man-in-desk" className='image mt-3' />
-        <Link to="/create" className='text-center mt-3 link'>{props?.text}</Link>
+        <Link to="/dashboard" className='text-center mt-3 link'>{props?.text}</Link>
     </div>
 }
 
